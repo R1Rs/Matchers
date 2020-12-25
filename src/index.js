@@ -1,4 +1,4 @@
-import health from './js/functionHealth';
-import mag from './js/mag';
+import array from './js/array';
+import functionArray from './js/functionArray';
 
-health(mag);
+functionArray(array);
