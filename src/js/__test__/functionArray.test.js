@@ -31,5 +31,5 @@ test("test function sorting", () => {
     { name: 'мечник', health: 10 },
   ];
 
-  expect(received).toBe(expected);
+  expect(received).not.toBe(expected);
 });
